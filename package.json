@@ -4,7 +4,7 @@
   "description": "Sistema de gestión de inventarios para TecnoRepuestos S.A.",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest",
+    "test": "node node_modules/jest/bin/jest.js",
     "start": "node src/index.js"
   },
   "keywords": [],
