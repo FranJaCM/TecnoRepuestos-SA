@@ -1,0 +1,11 @@
+{
+  "name": "tecnorepuestos-sa",
+  "version": "1.0.0",
+  "description": "Sistema de gestión de inventarios para TecnoRepuestos S.A.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "Francisco Calderon",
+  "license": "ISC"
+}
